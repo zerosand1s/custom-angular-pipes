@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'custom-angular-pipes';
+
+  public stringToReverse = '';
+  public showReverse = false;
+
+  reverseString() {
+    this.showReverse = true;
+  }
 }

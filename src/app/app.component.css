@@ -1,0 +1,27 @@
+h3 {
+  text-align: center;
+}
+
+h4 {
+  margin: 8px 0 8px 15px;
+}
+
+.pipeContainer {
+  margin: 25px 0;
+}
+
+.pipeContainer input {
+  margin: 15px 15px;
+  height: 25px;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.pipeContainer button {  
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 16px;
+  background-color: royalblue;
+  color: white;
+}
